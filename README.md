@@ -1,6 +1,6 @@
-# SCFilmMobileChallenge
+# SingtelCodingTest
 
-Built for **SC Mobile challenge**<br />
+Built for **Singtel Coding Test**<br />
 
 - Redux integration
 - Redux Saga Integration
