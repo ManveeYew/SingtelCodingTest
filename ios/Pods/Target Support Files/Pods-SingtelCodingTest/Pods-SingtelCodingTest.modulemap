@@ -1,0 +1,6 @@
+module Pods_SingtelCodingTest {
+  umbrella header "Pods-SingtelCodingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
